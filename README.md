@@ -1,5 +1,3 @@
-# Rithika Sapparapu
-
 Welcome to my personal GitHub Page! Below you'll find an overview of my background, education, technical skills, work experience, and some of my key projects. Feel free to explore and reach out if you'd like to collaborate or learn more!
 
 ## Contact Information
