@@ -75,3 +75,12 @@ _Jan 2021 - May 2021_
 - Engineered a multi-phase MIPS processor simulator with dual-level exclusive cache architecture (L1/L2), achieving competitive instruction throughput and high cache hit rates.
 
 ---
+
+## Achievements
+
+- Technical paper published on micro-services refactoring in the TCS Global TACTiCS conference, 2024
+- Received the "Exhibitor" award for outstanding presentation at TCS Tech Expo, 2023
+- Ranked in top 8.9% out of 160,000 candidates in JEE Advanced 2019
+- Ranked in top 1.8% out of 1,150,000 candidates in JEE Mains 2019
+
+---
