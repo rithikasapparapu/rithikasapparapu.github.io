@@ -4,7 +4,7 @@ Welcome to my personal GitHub Page! Below you'll find an overview of my backgrou
 - 📧 Email: [rithikasapparapu@tamu.edu](mailto:rithikasapparapu@tamu.edu)
 - 📞 Phone: +1 945-426-1064
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rithikasapparapu)
-- 🔗 [GitHub](https://github.com/username)
+- 🔗 [GitHub](https://github.com/rithikasapparapu)
 
 ---
 
