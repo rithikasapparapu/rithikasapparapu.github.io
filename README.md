@@ -84,3 +84,19 @@ _Jan 2021 - May 2021_
 - Ranked in top 1.8% out of 1,150,000 candidates in JEE Mains 2019
 
 ---
+
+## Positions of Responsibility
+
+### Intra IIT Sports | Girls Basketball Team Captain 
+_Aug 2021 - May 2023_  
+- Captained team to secure gold medal at Intra-IIT Tournament through strategic leadership.
+
+### Website Development Team, Tirutsava 2022 | Core Member  
+_November 2021 – May 2022_  
+- Developed the official website for IITT's annual techno-cultural fest, Tirutsava, enabling online ticket sales and facilitating event registrations and information access.
+
+### Code Club | Co-Coordinator 
+_Jun 2021 - Dec 2021_  
+- Led problem-solving sessions on DSA for 50+ members, fostering collaborative learning and enhancing coding skills.
+
+---
